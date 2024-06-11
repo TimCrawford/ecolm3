@@ -8,4 +8,5 @@ This repository presents data as it stood at the end of the project, in the `/da
  * `ecolmIII.mysql` is a dump of the full database (with user logging removed)
  * `/codes` contains transcriptions in TabCode format
  * `/MEI` has the same transcriptions, converted to the MEI format
- * `pages` is a complete set of images from the project.
+ * `/pages` is a complete set of images from the project
+ * `/output` contains the raw files created by the Optical Tablature Recognition process
