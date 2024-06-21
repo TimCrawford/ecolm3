@@ -1,0 +1,3311 @@
+Recognising K1c10_001_part_a.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_001_part_a.staffs'
+
+Recognising K1c10_002_part_a.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_002_part_a.staffs'
+
+Recognising K1c10_003_part_a.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_003_part_a.staffs'
+
+Recognising K1c10_003_part_b.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_003_part_b.staffs'
+
+Recognising K1c10_004_part_a.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_004_part_a.staffs'
+
+Recognising K1c10_004_part_b.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 183, in <module>
+    image = image.smoothen()
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/plugins/otr_staff_plugins.py", line 104, in __call__
+    imgnew = img.convolve(kernel)
+  File "/Library/Python/2.7/site-packages/gamera/plugins/convolution.py", line 98, in __call__
+    return _convolution.convolve(self, kernel, border_treatment)
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 199, in __init__
+    def __init__(self):
+KeyboardInterrupt
+
+Recognising K1c10_005_part_a.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 164, in <module>
+    init_gamera()
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 708, in _init_gamera
+    paths.import_directory(paths.plugins, globals(), locals(), verbose)
+  File "/Library/Python/2.7/site-packages/gamera/paths.py", line 84, in import_directory
+    module = __import__(m, gl, lo, [])
+  File "/Library/Python/2.7/site-packages/gamera/plugins/misc_filters.py", line 23, in <module>
+    import _misc_filters
+KeyboardInterrupt
+
+Recognising K1c10_005_part_b.png
+Traceback (most recent call last):
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site.py", line 62, in <module>
+    import os
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/os.py", line 398, in <module>
+    import UserDict
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/UserDict.py", line 83, in <module>
+    import _abcoll
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/_abcoll.py", line 563, in <module>
+    class MutableSequence(Sequence):
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/abc.py", line 87, in __new__
+    cls = super(ABCMeta, mcls).__new__(mcls, name, bases, namespace)
+KeyboardInterrupt
+
+Recognising K1c10_006_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 41, in <module>
+    from gamera import knn
+  File "/Library/Python/2.7/site-packages/gamera/knn.py", line 22, in <module>
+    from gamera import core, util, config, classify
+  File "/Library/Python/2.7/site-packages/gamera/classify.py", line 22, in <module>
+    import util, gamera_xml, config
+  File "/Library/Python/2.7/site-packages/gamera/gamera_xml.py", line 24, in <module>
+    from weakref import proxy
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/weakref.py", line 25, in <module>
+    from exceptions import ReferenceError
+KeyboardInterrupt
+
+Recognising K1c10_006_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 39, in <module>
+    from gamera.core import *
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 69, in <module>
+    import paths, util    # Gamera-specific
+  File "/Library/Python/2.7/site-packages/gamera/util.py", line 29, in <module>
+    from gamera.config import config
+  File "/Library/Python/2.7/site-packages/gamera/config.py", line 25, in <module>
+    from inspect import getfile
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/inspect.py", line 39, in <module>
+    import tokenize
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tokenize.py", line 102, in <module>
+    re.compile, (Token, PseudoToken, Single3, Double3))
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/re.py", line 190, in compile
+    return _compile(pattern, flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/re.py", line 243, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 504, in compile
+    code = _code(p, flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 489, in _code
+    _compile(code, p.data, flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 101, in _compile
+    _compile(code, av[1], flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 142, in _compile
+    _compile(code, av, flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 101, in _compile
+    _compile(code, av[1], flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 142, in _compile
+    _compile(code, av, flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 101, in _compile
+    _compile(code, av[1], flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 142, in _compile
+    _compile(code, av, flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 57, in _compile
+    _compile_charset(av, flags, code, fixup)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 183, in _compile_charset
+    for op, av in _optimize_charset(charset, fixup):
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 239, in _optimize_charset
+    i = i + 1
+KeyboardInterrupt
+
+Recognising K1c10_007_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_007_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c10_008_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_008_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 2, in <module>
+    import sys
+KeyboardInterrupt
+
+Recognising K1c10_009_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 29, in <module>
+    import _image_utilities
+KeyboardInterrupt
+
+Recognising K1c10_009_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c10_010_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 25, in <module>
+    import wxversion
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wxversion.py", line 75, in <module>
+    """
+KeyboardInterrupt
+
+Recognising K1c10_010_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 41, in <module>
+    from gamera import knn
+  File "/Library/Python/2.7/site-packages/gamera/knn.py", line 23, in <module>
+    from gamera.plugins import features as features_module
+  File "/Library/Python/2.7/site-packages/gamera/plugins/features.py", line 390, in <module>
+    module = FeaturesModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c10_011_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c10_011_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 29, in <module>
+    import _image_utilities
+KeyboardInterrupt
+
+Recognising K1c10_012_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_012_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 29, in <module>
+    import _image_utilities
+KeyboardInterrupt
+
+Recognising K1c10_013_part_a.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 199, in <module>
+    tab.remove_staves(crossing_symbols='all', num_lines=opt.nlines)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_staff.py", line 236, in remove_staves
+    num_lines=num_lines)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/musicstaves_linetracking.py", line 197, in remove_staves
+    debug = find_staves_debug)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/stafffinder_dalitz.py", line 164, in find_staves
+    blackness)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/plugins/line_tracking.py", line 118, in __call__
+    self, windowwidth, blackness)
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 199, in __init__
+    def __init__(self):
+KeyboardInterrupt
+
+Recognising K1c10_013_part_b.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 164, in <module>
+    init_gamera()
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 708, in _init_gamera
+    paths.import_directory(paths.plugins, globals(), locals(), verbose)
+  File "/Library/Python/2.7/site-packages/gamera/paths.py", line 84, in import_directory
+    module = __import__(m, gl, lo, [])
+  File "/Library/Python/2.7/site-packages/gamera/plugins/numarray_io.py", line 26, in <module>
+    import numpy.numarray as n
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/__init__.py", line 136, in <module>
+    import add_newdocs
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/add_newdocs.py", line 9, in <module>
+    from numpy.lib import add_newdoc
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/lib/__init__.py", line 4, in <module>
+    from type_check import *
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/lib/type_check.py", line 8, in <module>
+    import numpy.core.numeric as _nx
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/core/__init__.py", line 8, in <module>
+    import numerictypes as nt
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/core/numerictypes.py", line 469, in <module>
+    _set_array_types()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/core/numerictypes.py", line 465, in _set_array_types
+    while (indx < len(_lst) and sz >= _lst[indx](0).itemsize):
+KeyboardInterrupt
+
+Recognising K1c10_014_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 39, in <module>
+    from gamera.core import *
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 69, in <module>
+    import paths, util    # Gamera-specific
+  File "/Library/Python/2.7/site-packages/gamera/util.py", line 29, in <module>
+    from gamera.config import config
+  File "/Library/Python/2.7/site-packages/gamera/config.py", line 22, in <module>
+    from backport.config import *
+  File "/Library/Python/2.7/site-packages/gamera/backport/config.py", line 24, in <module>
+    from os.path import isfile, expanduser, split, join
+KeyboardInterrupt
+
+Recognising K1c10_014_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 29, in <module>
+    import _image_utilities
+KeyboardInterrupt
+
+Recognising K1c10_015_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_015_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16928, in <module>
+    from _controls import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_controls.py", line 4, in <module>
+    import _controls_
+KeyboardInterrupt
+
+Recognising K1c10_016_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 4, in <module>
+    import _core_
+KeyboardInterrupt
+
+Recognising K1c10_016_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16926, in <module>
+    from _gdi import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_gdi.py", line 4, in <module>
+    import _gdi_
+KeyboardInterrupt
+
+Recognising K1c10_017_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16927, in <module>
+    from _windows import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 4, in <module>
+    import _windows_
+KeyboardInterrupt
+
+Recognising K1c10_017_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16926, in <module>
+    from _gdi import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_gdi.py", line 83, in <module>
+    class Colour(_core.Object):
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_gdi.py", line 295, in Colour
+    RGB = property(GetRGB,SetRGB,doc="See `GetRGB` and `SetRGB`") 
+KeyboardInterrupt
+
+Recognising K1c10_018_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16927, in <module>
+    from _windows import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 4, in <module>
+    import _windows_
+KeyboardInterrupt
+
+Recognising K1c10_018_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16927, in <module>
+    from _windows import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 3567, in <module>
+    class FontDialog(Dialog):
+KeyboardInterrupt
+
+Recognising K1c10_019_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16928, in <module>
+    from _controls import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_controls.py", line 4, in <module>
+    import _controls_
+KeyboardInterrupt
+
+Recognising K1c10_019_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16927, in <module>
+    from _windows import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 3664, in <module>
+    class GenericProgressDialog(Dialog):
+KeyboardInterrupt
+
+Recognising K1c10_020_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16927, in <module>
+    from _windows import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 4, in <module>
+    import _windows_
+KeyboardInterrupt
+
+Recognising K1c10_020_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16928, in <module>
+    from _controls import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_controls.py", line 4, in <module>
+    import _controls_
+KeyboardInterrupt
+
+Recognising K1c10_021_part_a.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 199, in <module>
+    tab.remove_staves(crossing_symbols='all', num_lines=opt.nlines)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_staff.py", line 236, in remove_staves
+    num_lines=num_lines)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/musicstaves_linetracking.py", line 197, in remove_staves
+    debug = find_staves_debug)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/stafffinder_dalitz.py", line 164, in find_staves
+    blackness)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/plugins/line_tracking.py", line 120, in __call__
+    image, staffline_height)
+KeyboardInterrupt
+
+Recognising K1c10_021_part_b.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 164, in <module>
+    init_gamera()
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 708, in _init_gamera
+    paths.import_directory(paths.plugins, globals(), locals(), verbose)
+  File "/Library/Python/2.7/site-packages/gamera/paths.py", line 84, in import_directory
+    module = __import__(m, gl, lo, [])
+  File "/Library/Python/2.7/site-packages/gamera/plugins/segmentation.py", line 21, in <module>
+    import _segmentation
+KeyboardInterrupt
+
+Recognising K1c10_022_part_a.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 164, in <module>
+    init_gamera()
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 708, in _init_gamera
+    paths.import_directory(paths.plugins, globals(), locals(), verbose)
+  File "/Library/Python/2.7/site-packages/gamera/paths.py", line 84, in import_directory
+    module = __import__(m, gl, lo, [])
+  File "/Library/Python/2.7/site-packages/gamera/plugins/arithmetic.py", line 25, in <module>
+    import _logical
+KeyboardInterrupt
+
+Recognising K1c10_022_part_b.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 164, in <module>
+    init_gamera()
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 708, in _init_gamera
+    paths.import_directory(paths.plugins, globals(), locals(), verbose)
+  File "/Library/Python/2.7/site-packages/gamera/paths.py", line 84, in import_directory
+    module = __import__(m, gl, lo, [])
+  File "/Library/Python/2.7/site-packages/gamera/plugins/binarization.py", line 29, in <module>
+    import _binarization
+KeyboardInterrupt
+
+Recognising K1c10_023_part_a.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 164, in <module>
+    init_gamera()
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 708, in _init_gamera
+    paths.import_directory(paths.plugins, globals(), locals(), verbose)
+  File "/Library/Python/2.7/site-packages/gamera/paths.py", line 84, in import_directory
+    module = __import__(m, gl, lo, [])
+  File "/Library/Python/2.7/site-packages/gamera/plugins/binarization.py", line 346, in <module>
+    class shading_subtraction(PluginFunction):
+  File "/Library/Python/2.7/site-packages/gamera/plugins/binarization.py", line 373, in shading_subtraction
+    return_type = ImageType([ONEBIT], "onebit")
+  File "/Library/Python/2.7/site-packages/gamera/args.py", line 223, in __init__
+    Arg.__init__(self, name)
+  File "/Library/Python/2.7/site-packages/gamera/args.py", line 76, in __init__
+    def __init__(self, name):
+KeyboardInterrupt
+
+Recognising K1c10_023_part_b.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 13, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_staff.py", line 15, in <module>
+    from gamera.toolkits.musicstaves import MusicStaves_linetracking as MusicStaves
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/__init__.py", line 24, in <module>
+    import plugins
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/plugins/__init__.py", line 2, in <module>
+    import staff_removal_fujinaga
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/plugins/staff_removal_fujinaga.py", line 21, in <module>
+    import _staff_removal_fujinaga
+KeyboardInterrupt
+
+Recognising K1c10_024_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16927, in <module>
+    from _windows import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 1170, in <module>
+    class StatusBarPane(object):
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 1193, in StatusBarPane
+    def SetIsEllipsized(*args, **kwargs):
+KeyboardInterrupt
+
+Recognising K1c10_024_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/aui.py", line 102, in <module>
+    """
+KeyboardInterrupt
+
+Recognising K1c10_025_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16926, in <module>
+    from _gdi import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_gdi.py", line 4, in <module>
+    import _gdi_
+KeyboardInterrupt
+
+Recognising K1c10_025_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/aui.py", line 104, in <module>
+    import _aui
+KeyboardInterrupt
+
+Recognising K1c10_026_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 56, in <module>
+    __all__ += [name for name in dir(wx._core) if not name.startswith('_')]
+KeyboardInterrupt
+
+Recognising K1c10_026_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16929, in <module>
+    from _misc import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_misc.py", line 4, in <module>
+    import _misc_
+KeyboardInterrupt
+
+Recognising K1c10_027_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16928, in <module>
+    from _controls import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_controls.py", line 4, in <module>
+    import _controls_
+KeyboardInterrupt
+
+Recognising K1c10_027_part_b.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 164, in <module>
+    init_gamera()
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 708, in _init_gamera
+    paths.import_directory(paths.plugins, globals(), locals(), verbose)
+  File "/Library/Python/2.7/site-packages/gamera/paths.py", line 84, in import_directory
+    module = __import__(m, gl, lo, [])
+  File "/Library/Python/2.7/site-packages/gamera/plugins/numarray_io.py", line 26, in <module>
+    import numpy.numarray as n
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/__init__.py", line 155, in <module>
+    import ma
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/ma/__init__.py", line 44, in <module>
+    import core
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/ma/core.py", line 21, in <module>
+    """
+KeyboardInterrupt
+
+Recognising K1c10_028_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 39, in <module>
+    from gamera.core import *
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 69, in <module>
+    import paths, util    # Gamera-specific
+  File "/Library/Python/2.7/site-packages/gamera/util.py", line 29, in <module>
+    from gamera.config import config
+  File "/Library/Python/2.7/site-packages/gamera/config.py", line 25, in <module>
+    from inspect import getfile
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/inspect.py", line 39, in <module>
+    import tokenize
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/tokenize.py", line 102, in <module>
+    re.compile, (Token, PseudoToken, Single3, Double3))
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/re.py", line 190, in compile
+    return _compile(pattern, flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/re.py", line 243, in _compile
+    p = sre_compile.compile(pattern, flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_compile.py", line 500, in compile
+    p = sre_parse.parse(p, flags)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_parse.py", line 673, in parse
+    p = _parse_sub(source, pattern, 0)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_parse.py", line 308, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_parse.py", line 633, in _parse
+    p = _parse_sub(source, state)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_parse.py", line 308, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_parse.py", line 633, in _parse
+    p = _parse_sub(source, state)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_parse.py", line 308, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_parse.py", line 633, in _parse
+    p = _parse_sub(source, state)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_parse.py", line 308, in _parse_sub
+    itemsappend(_parse(source, state))
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/sre_parse.py", line 472, in _parse
+    elif this and this[0] in REPEAT_CHARS:
+KeyboardInterrupt
+
+Recognising K1c10_028_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_029_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 29, in <module>
+    import _image_utilities
+KeyboardInterrupt
+
+Recognising K1c10_029_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 29, in <module>
+    import _image_utilities
+KeyboardInterrupt
+
+Recognising K1c10_030_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c10_030_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_031_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 2, in <module>
+    import sys
+KeyboardInterrupt
+
+Recognising K1c10_031_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 242, in <module>
+    class nested_list_to_image(PluginFunction):
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 286, in nested_list_to_image
+    'GREY16', 'RGB', 'FLOAT'])])
+  File "/Library/Python/2.7/site-packages/gamera/args.py", line 46, in __init__
+    self.list = util.make_sequence(list)
+  File "/Library/Python/2.7/site-packages/gamera/util.py", line 42, in make_sequence
+    if not is_sequence(obj):
+  File "/Library/Python/2.7/site-packages/gamera/util.py", line 38, in is_sequence
+    return type(obj) in (list, tuple)
+KeyboardInterrupt
+
+Recognising K1c10_032_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 41, in <module>
+    from gamera import knn
+  File "/Library/Python/2.7/site-packages/gamera/knn.py", line 24, in <module>
+    import gamera.knncore, gamera.gamera_xml
+KeyboardInterrupt
+
+Recognising K1c10_032_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_033_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 41, in <module>
+    from gamera import knn
+  File "/Library/Python/2.7/site-packages/gamera/knn.py", line 23, in <module>
+    from gamera.plugins import features as features_module
+  File "/Library/Python/2.7/site-packages/gamera/plugins/features.py", line 390, in <module>
+    module = FeaturesModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c10_033_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_034_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 2, in <module>
+    import sys
+KeyboardInterrupt
+
+Recognising K1c10_034_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_035_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 2, in <module>
+    import sys
+KeyboardInterrupt
+
+Recognising K1c10_035_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c10_036_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c10_036_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_037_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 29, in <module>
+    import _image_utilities
+KeyboardInterrupt
+
+Recognising K1c10_037_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c10_038_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 29, in <module>
+    import _image_utilities
+KeyboardInterrupt
+
+Recognising K1c10_038_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c10_039_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_039_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 2, in <module>
+    import sys
+KeyboardInterrupt
+
+Recognising K1c10_040_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c10_040_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 101, in register
+    if not hasattr(cls, "__call__"):
+KeyboardInterrupt
+
+Recognising K1c11_002_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c11_003_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c11_003_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 41, in <module>
+    from gamera import knn
+  File "/Library/Python/2.7/site-packages/gamera/knn.py", line 23, in <module>
+    from gamera.plugins import features as features_module
+  File "/Library/Python/2.7/site-packages/gamera/plugins/features.py", line 390, in <module>
+    module = FeaturesModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+
+Recognising K1c11_004_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+
+Recognising K1c11_004_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 41, in <module>
+    from gamera import knn
+  File "/Library/Python/2.7/site-packages/gamera/knn.py", line 20, in <module>
+    from threading import *
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/threading.py", line 1, in <module>
+    """Thread module emulating a subset of Java's threading model."""
+KeyboardInterrupt
+
+Recognising K1c11_005_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 124, in register
+    util.dedent(cls.__doc__)))
+  File "/Library/Python/2.7/site-packages/gamera/util.py", line 370, in dedent
+    result = unindent.sub("\n", s).strip()
+KeyboardInterrupt
+
+Recognising K1c11_005_part_b.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 242, in <module>
+    criterion='avg')
+  File "/Library/Python/2.7/site-packages/gamera/classify.py", line 139, in group_list_automatic
+    splits, removed = self.classify_list_automatic(glyphs)
+  File "/Library/Python/2.7/site-packages/gamera/classify.py", line 330, in classify_list_automatic
+    return self._classify_list_automatic(glyphs, max_recursion, 0, progress)
+  File "/Library/Python/2.7/site-packages/gamera/classify.py", line 284, in _classify_list_automatic
+    (id, conf) = self._classify_automatic_impl(glyph)
+  File "/Library/Python/2.7/site-packages/gamera/classify.py", line 679, in _classify_automatic_impl
+    return self.classify_with_images(self.database, glyph)
+KeyboardInterrupt
+
+Recognising K1c11_006_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 4, in <module>
+    import _core_
+KeyboardInterrupt
+
+Recognising K1c11_006_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16929, in <module>
+    from _misc import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_misc.py", line 4, in <module>
+    import _misc_
+KeyboardInterrupt
+
+Recognising K1c11_007_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16927, in <module>
+    from _windows import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 4, in <module>
+    import _windows_
+KeyboardInterrupt
+
+Recognising K1c11_007_part_b.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 183, in <module>
+    image = image.smoothen()
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/plugins/otr_staff_plugins.py", line 104, in __call__
+    imgnew = img.convolve(kernel)
+  File "/Library/Python/2.7/site-packages/gamera/plugins/convolution.py", line 98, in __call__
+    return _convolution.convolve(self, kernel, border_treatment)
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 199, in __init__
+    def __init__(self):
+KeyboardInterrupt
+
+Recognising K1c11_008_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 14, in <module>
+    import __version__
+KeyboardInterrupt
+
+Recognising K1c11_008_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16927, in <module>
+    from _windows import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 3427, in <module>
+    class FontData(_core.Object):
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 3516, in FontData
+    def SetChosenFont(*args, **kwargs):
+KeyboardInterrupt
+
+Recognising K1c11_009_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16928, in <module>
+    from _controls import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_controls.py", line 4, in <module>
+    import _controls_
+KeyboardInterrupt
+
+Recognising K1c11_009_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16928, in <module>
+    from _controls import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_controls.py", line 4, in <module>
+    import _controls_
+KeyboardInterrupt
+
+Recognising K1c11_010_part_a.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16927, in <module>
+    from _windows import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_windows.py", line 4, in <module>
+    import _windows_
+KeyboardInterrupt
+
+Recognising K1c11_010_part_b.png
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 18, in <module>
+    from gamera.gui import gui
+  File "/Library/Python/2.7/site-packages/gamera/gui/gui.py", line 35, in <module>
+    from wx import aui
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/__init__.py", line 45, in <module>
+    from wx._core import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_core.py", line 16929, in <module>
+    from _misc import *
+  File "/usr/local/lib/wxPython-2.9.3.1/lib/python2.7/site-packages/wx-2.9.3-osx_cocoa/wx/_misc.py", line 4, in <module>
+    import _misc_
+KeyboardInterrupt
+
+Recognising K1c11_011_part_a.png
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Recognising K1c10_001_part_a.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_001_part_a.staffs'
+Recognising K1c10_002_part_a.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_002_part_a.staffs'
+Recognising K1c10_003_part_a.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_003_part_a.staffs'
+Recognising K1c10_003_part_b.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_003_part_b.staffs'
+Recognising K1c10_004_part_a.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_004_part_a.staffs'
+Recognising K1c10_004_part_b.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_004_part_b.staffs'
+Recognising K1c10_005_part_a.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_005_part_a.staffs'
+Recognising K1c10_005_part_b.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_005_part_b.staffs'
+Recognising K1c10_006_part_a.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 300, in <module>
+    f_staff = open(opt.outfile_staffs, "w")
+IOError: [Errno 2] No such file or directory: 'K1c10/K1c10_006_part_a.staffs'
+Recognising K1c10_006_part_b.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 242, in <module>
+    criterion='avg')
+  File "/Library/Python/2.7/site-packages/gamera/classify.py", line 139, in group_list_automatic
+    splits, removed = self.classify_list_automatic(glyphs)
+  File "/Library/Python/2.7/site-packages/gamera/classify.py", line 330, in classify_list_automatic
+    return self._classify_list_automatic(glyphs, max_recursion, 0, progress)
+  File "/Library/Python/2.7/site-packages/gamera/classify.py", line 284, in _classify_list_automatic
+    (id, conf) = self._classify_automatic_impl(glyph)
+  File "/Library/Python/2.7/site-packages/gamera/classify.py", line 679, in _classify_automatic_impl
+    return self.classify_with_images(self.database, glyph)
+KeyboardInterrupt
+Recognising K1c10_007_part_a.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 164, in <module>
+    init_gamera()
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 708, in _init_gamera
+    paths.import_directory(paths.plugins, globals(), locals(), verbose)
+  File "/Library/Python/2.7/site-packages/gamera/paths.py", line 84, in import_directory
+    module = __import__(m, gl, lo, [])
+  File "/Library/Python/2.7/site-packages/gamera/plugins/numarray_io.py", line 26, in <module>
+    import numpy.numarray as n
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/__init__.py", line 152, in <module>
+    import polynomial
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/polynomial/__init__.py", line 16, in <module>
+    from polynomial import *
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/numpy/polynomial/polynomial.py", line 931, in <module>
+    exec polytemplate.substitute(name='Polynomial', nick='poly', domain='[-1,1]')
+  File "<string>", line 2, in <module>
+KeyboardInterrupt
+Recognising K1c10_007_part_b.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 39, in <module>
+    from gamera.core import *
+  File "/Library/Python/2.7/site-packages/gamera/core.py", line 69, in <module>
+    import paths, util    # Gamera-specific
+  File "/Library/Python/2.7/site-packages/gamera/util.py", line 29, in <module>
+    from gamera.config import config
+  File "/Library/Python/2.7/site-packages/gamera/config.py", line 25, in <module>
+    from inspect import getfile
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/inspect.py", line 261, in <module>
+    Attribute = namedtuple('Attribute', 'name kind defining_class object')
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/collections.py", line 305, in namedtuple
+    exec template in namespace
+  File "<string>", line 1, in <module>
+KeyboardInterrupt
+Recognising K1c10_008_part_a.png
+
+Traceback (most recent call last):
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/encodings/__init__.py", line 46, in <module>
+    class CodecRegistryError(LookupError, SystemError):
+KeyboardInterrupt
+Recognising K1c10_008_part_b.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+Recognising K1c10_009_part_a.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 107, in register
+    directory = os.path.split(file)[0]
+KeyboardInterrupt
+Recognising K1c10_009_part_b.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+Recognising K1c10_010_part_a.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 2, in <module>
+    import sys
+KeyboardInterrupt
+Recognising K1c10_010_part_b.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+Recognising K1c10_011_part_a.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 29, in <module>
+    import _image_utilities
+KeyboardInterrupt
+Recognising K1c10_011_part_b.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+Recognising K1c10_012_part_a.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 4, in <module>
+    import image_utilities
+  File "/Library/Python/2.7/site-packages/gamera/plugins/image_utilities.py", line 413, in <module>
+    module = UtilModule()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 62, in __init__
+    function.register()
+  File "/Library/Python/2.7/site-packages/gamera/plugin.py", line 109, in register
+    found = imp.find_module(cpp_module_name)
+KeyboardInterrupt
+Recognising K1c10_012_part_b.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+Recognising K1c10_013_part_a.png
+
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 44, in <module>
+    from gamera.toolkits.otr.otr_staff import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/__init__.py", line 4, in <module>
+    from otr_glyph import TabGlyphList
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 5, in <module>
+    from to_abcmusic import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/to_abcmusic.py", line 12, in <module>
+    from german_page import *
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/german_page.py", line 10, in <module>
+    from gamera import toolkit
+KeyboardInterrupt
+Recognising K1c10_013_part_b.png
+
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_001_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_002_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_003_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_003_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_004_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_004_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_005_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_005_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_006_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_006_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_007_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_007_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_008_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_008_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_009_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_009_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_010_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_010_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_011_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_011_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_012_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_012_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_013_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_013_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_014_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_014_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_015_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_015_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_016_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_016_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_017_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_017_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_018_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_018_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_019_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_019_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_020_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_020_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_021_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_021_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_022_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_022_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_023_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_023_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_024_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_024_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_025_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_025_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_026_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_026_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_027_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_027_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_028_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_028_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_029_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_029_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_030_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_030_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_031_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_031_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_032_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_032_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_033_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_033_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_034_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_034_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_035_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_035_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_036_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_036_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_037_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_037_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_038_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_038_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_039_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_039_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_040_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c10_040_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_002_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_003_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_003_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_004_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_004_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_005_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_005_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_006_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_006_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_007_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_007_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_008_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_008_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_009_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_009_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_010_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_010_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_011_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_011_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_012_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_012_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_013_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_013_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_014_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_014_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_015_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_015_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_016_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_016_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_017_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_017_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_018_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_018_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_019_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_019_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_020_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c11_020_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_002_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_002_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_003_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_003_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_004_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_004_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_005_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_005_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_006_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_006_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_007_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_007_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_008_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_008_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_009_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_009_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_010_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_010_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_011_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_011_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_012_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_012_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_013_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_013_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_014_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_014_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_015_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_015_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_016_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_016_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_017_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_017_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_018_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_018_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_019_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_019_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_020_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_020_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_021_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_022_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_022_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_023_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_023_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_024_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_024_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_025_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_025_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_026_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_026_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_027_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_027_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_028_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_028_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_029_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_029_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_030_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_030_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_031_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_031_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_032_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_032_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_033_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_033_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_034_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_034_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_035_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_035_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_036_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_036_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_037_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_037_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_038_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_038_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_039_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_039_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_040_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c12_040_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_001_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_002_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_002_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_003_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_003_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_004_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_004_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_005_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_005_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_006_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_006_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_007_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_007_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_008_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_008_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_009_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_009_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_010_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_010_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_011_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_011_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_012_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_012_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_013_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_013_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_014_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_014_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_015_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_015_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_016_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_016_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_017_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_017_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_018_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_018_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_019_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_019_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_020_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c13_020_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_003_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_003_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_004_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_004_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_005_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_005_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_006_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_006_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_007_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_007_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_008_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_008_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_009_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_009_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_010_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_010_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_011_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_011_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_012_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_012_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_013_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_013_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_014_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_014_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_015_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_015_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_016_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_016_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_017_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_017_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_018_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_018_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_019_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_019_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_020_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_020_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_021_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_021_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_022_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_022_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_023_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_023_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_024_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_024_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_025_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K1c14_025_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-08-31/otr_recognize.py", line 199, in <module>
+    tab.remove_staves(crossing_symbols='all', num_lines=opt.nlines)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_staff.py", line 236, in remove_staves
+    num_lines=num_lines)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/musicstaves_linetracking.py", line 197, in remove_staves
+    debug = find_staves_debug)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/musicstaves/stafffinder_dalitz.py", line 437, in find_staves
+    print "num_lines estimated as ", estimated_num_lines
+UnboundLocalError: local variable 'estimated_num_lines' referenced before assignment
+
+Log for K8g3_002_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_003_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_003_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_004_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_004_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_005_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_005_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_006_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_006_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_007_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_007_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_008_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_008_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_009_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_009_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_010_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_010_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_011_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_011_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_012_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_012_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_013_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_013_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_014_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_014_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_015_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_015_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_016_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_016_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_017_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_017_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_018_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_018_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_019_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_019_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_020_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_020_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_021_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_021_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_022_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_023_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_024_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_024_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_025_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_025_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_026_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_026_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_027_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_027_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_028_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_028_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_029_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_029_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_030_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_030_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_031_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_031_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_032_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_032_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_033_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_033_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_034_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_034_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_035_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_035_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_036_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_036_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_037_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_037_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_038_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_038_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_039_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_039_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_040_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_040_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_041_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_041_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_042_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_042_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_043_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_043_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_044_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_044_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_045_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_045_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_046_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_046_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_047_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_047_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K8g3_048_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()

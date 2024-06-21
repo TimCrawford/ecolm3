@@ -1,0 +1,57 @@
+X:1
+%
+%%titleleft true
+%%tabaddflags 0
+%%tabrhstyle grid
+%
+T:K8g3_043_part_a.png
+C:506 symbols in 359 chords
+L:1/1
+K:italiantab
+%
+[,,,,,b] [d///] [b] [f] [h] [,d] [,b] [h] [f] [b] [k] |\
+	[h,,a] [,d] [,b] [,f] [,h] [,da,,a] [,,d] [,,f] [,h] [,#ya] [,b] [,da] [,b///] [,da] [,h] [,k] |\
+	[,df,a//] [a] [,,,c] [,d] [,c] [,a] |\
+	[,cd,a] [,df] [ac] [,cd] [,df,a] [ac] |\
+	[cd,a] [ef] [fh] [ef] [cd,a] [ac] |
+%
+[,dfa//] [,cd] [,acc] .[a,d,e] [,daa] [,acc] |\
+	[acd,a//] [,,,c///] [,d] [a] [,d] [,c] [,a] [,cd,a/] |\
+	[kf,ha//] [b] [d] [b] [b] [d] [b] [f,,h] [h] |\
+	[kf,ha//] [f///] [h] [da] [f] [h] [f] [he,g,e//] [e///] [f] |\
+	[h] [e] [f] [h] [fc,e,c//] [c///] [b] [f] [c] 
+%
+[e] [f] |\
+	[e,fc,a//] [,f] [,,,c] [,d] [,c] [,a] |\
+	[acd,a///] [,a] [,c] [,d] [a] [c] [d] [c] [a] [,d] [,c] [,a] |\
+	[,c,ca] [,a] [,,d] [,a] [,c] [,,d] [,a] [,c] [,a,,,e] [,,d] [,,b] [,,d] |\
+	[,a] [,,c] [,,d] [,a] [,,d,,c] [,,a] [,,c] [,,d] 
+%
+[,a,b] [,,d] [,,c] [,,a] |\
+	[aac,,a//] [,,,c///] [,,d] [,a] [,,d] [,,b] [,,a] [,,c,,a] [,,,b] [,,a] [,,c] |\
+	[,,d,,c] [,,c] [,,a] [,,b] [,,d] [,,a] [,,b] [,,d] [,a,,,e] [,,b] [,,d] [,a] |\
+	[,c,ca] [,a] [,,d] [,a] [,c] [,,d] [,a] [,c] [,ea,c] [,a] [,c] [,e] |
+%
+[a,,,e] [,d] [,c] [,d] [a] [,c] [,d] [a] [c,da] [,d] [a] [c] |\
+	[a,cc] [,d] [a] [c] [a] [,d] [,c] [,a] [,c,e] [,,d] [,a] [,c] |\
+	[,dda] [,c] [,a] [,c] [,d] [a] [c] [a] [,d] [,c] [,a] [,,d] |\
+	[,a,d] [,,d] [,,c] [,,a] 
+%
+[aacc] [,,d] [,a] [,,d] [,,c] [,,a] [,,d] [,,c] |\
+	[acd,a] [,a] [,c] [,d] [a] [c] [d] [c] [a] [,d] [,c] [,a] |\
+	[,c,ca//] [,,d///] [,a] [,c] [,,d] [,a] [,c] [,a,c,a] [,,d] [,a] |\
+	[,,d,,d] [,,c] [,,a] [,,c] [,,d] [,,a] [,,c] [,,d] [,a,,,e] [,,c] 
+%
+[,,d] [,a] |\
+	[,c,ca] [,a] [,,d] [,a] [,c] [,,d] [,a] [,c] [,ea,c] [,a] [,c] [,e] |\
+	[a,,,e] [,d] [,c] [,d] [a] [,c] [,d] [a] [c,da] [,d] [a] [c] |\
+	[a,,c] [c] [d] [c] [a] [,d] [,c] [,a] [,c,b] [,,d] [,a] [,c] |\
+	[,dda] [,c] 
+%
+[b] [,a] [,c] [,d] [a] [c] [e] [f] [c] [e] [f] |\
+	[h,,a] [f] [c] [c] [ea,c] [c] [a] [c] [e] [a] [c] [e] |\
+	[fcd,a//] [e///] [c] [a] [c] [d] [c] [a] [,d] [,c] [,a] |\
+	[acc,a//] [,,,c///] [,d] [,,b] [a] [,d] [,a] H.[acd,a] |
+% number of items: 506
+
+

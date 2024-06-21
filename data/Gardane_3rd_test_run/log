@@ -1,0 +1,500 @@
+
+Log for K4d1_001_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-11-27/otr_recognize.py", line 297, in <module>
+    glyphs.set_glyph_properties(tab)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 354, in set_glyph_properties
+    modified=self.__group_grid(tab)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 655, in __group_grid
+    if not flagsperxnumber[g.staff].has_key(g.x_number):
+IndexError: list index out of range
+
+Log for K4d1_002_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+Traceback (most recent call last):
+  File "../../otr_ecolm-2012-11-27/otr_recognize.py", line 297, in <module>
+    glyphs.set_glyph_properties(tab)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 354, in set_glyph_properties
+    modified=self.__group_grid(tab)
+  File "/Library/Python/2.7/site-packages/gamera/toolkits/otr/otr_glyph.py", line 655, in __group_grid
+    if not flagsperxnumber[g.staff].has_key(g.x_number):
+IndexError: list index out of range
+
+Log for K4d1_003_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_003_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_004_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_004_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_005_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_005_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_006_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_006_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_007_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_007_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_008_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_008_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_009_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_009_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_010_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_010_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_011_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_011_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_012_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_012_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_013_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_013_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_014_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_014_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_015_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_015_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_016_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_016_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_017_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_017_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_018_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_018_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_019_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_019_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_020_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_020_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_021_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_021_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_022_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_022_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_023_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_023_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_024_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_024_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_025_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_025_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_026_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_026_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_027_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_027_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_028_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_028_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_029_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_029_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_030_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_030_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_031_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_031_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_032_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_032_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_033_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_033_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_034_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_034_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_035_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_035_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_036_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_036_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_037_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_037_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_038_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_038_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_039_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_039_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_040_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_040_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_041_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_041_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_042_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_042_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_043_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_043_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_044_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_044_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_045_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_045_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_046_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_046_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_047_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_047_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_048_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_048_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_049_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_049_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_050_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_050_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_051_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_051_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_052_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_052_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_053_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_053_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_054_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_054_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_055_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_055_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_056_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_056_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_057_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_057_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_058_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_058_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_059_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_059_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_060_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_060_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_061_part_a
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_061_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()
+
+Log for K4d1_062_part_b
+/Library/Python/2.7/site-packages/gamera/gui/gamera_display.py:42: wxPyDeprecationWarning: Call to deprecated item 'InitAllImageHandlers'. 
+  wx.InitAllImageHandlers()

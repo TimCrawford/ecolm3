@@ -1,0 +1,45 @@
+X:1
+%
+%%titleleft true
+%%tabaddflags 0
+%%tabrhstyle grid
+%
+T:K1c11_012_part_b.png
+C:407 symbols in 196 chords
+L:1/1
+K:italiantab
+%
+[,dff/] [,,,f//] [,c,#y] [,df/] [,,,e] |\
+	[,bbc//] [,a,#y] [,a] [,,,c] [,a,b] [,,d] [,abc/] |\
+	[,bd,a] [,a,ac] [a,,cd//] [,,b] [a,d/] |\
+	[,dfec] [,aa,c] [,c,e//] [,,d] [,,b] [,,a] |\
+	[,ab] [,,d] [,a,c] [,c,#y] [,d,e] [,a] [,cbc] [,a] |\
+	[,#yde] [,e,#y] [a,bc/] [,,de//] [,c] [,ed] [,,,e] |\
+	[a,bc] [,,d///] [,a] [,b] [,a] 
+%
+[,,d] [,,b] [,,aa//] [,,,,d] [,,b,c/] |\
+	[,,d,e] [,,def] [,,bc//] [,,a] [a,bcd] [,,d] |\
+	[,dfec/] [,abc] [,ddef] [,a,,c//] [a] |\
+	[c,#ya] [,,d] [,a] [,,,c] [,cde/] [,ddef] |\
+	[,abc] [a,a,d//] [,,,c] [aaa,c] [,e///] [a//] [,e] .[,,,,,bf] [aa,c,a] [,,,b] [,,,c] [,,a] [,abc,a/] [a//] [,,a] |\
+	[da,c,a/] [da,c,a] [cd#y,c//] [,,f///] [,c] [,d] 
+%
+[,f] [c] [d] |\
+	[f] [d] [c] [,f] [,d] [,c] [,d] [,f] [cdf,c//] [,c] [,df,c/] |\
+	[ac//] [,,d///] [,a] [,c] [,d] [a] [c] [ddf/] [ac,c] |\
+	[,,b//] [,d] [aab/] .[c,#ye//] [,,e///] [,,c] [,,e//] [a] |\
+	[,df,c] [,c] [,d,,#y] [a] [c/] [cdf] |\
+	[ddf] [#ydf] [,fg] [c] |\
+	[a] [cdf] 
+%
+[,cd//] [,d] [a] [,,c] |\
+	[,dde/] [,cf//] [,a#y] [,c,e] [,,c] [,ce] [,,,e] |\
+	[,,ff] [,,d] [,,f] [,,,e] [,abc] [,,a#y] [,ab] [,,,c] |\
+	[,dde] [,,c] [,,d] [,,b] [,dde] [,a,#y] [,cbc/] |\
+	[,,aa] [,abc] [,,,cd//] [,,a] [,,bc] [,,d] |\
+	[ca,ac/] .[ca,a] [ca,ac] [,d] |\
+	[a] [cdf] [d] [,ab] |\
+	..[,cd] [ddf] [,fa] 
+% number of items: 407
+
+

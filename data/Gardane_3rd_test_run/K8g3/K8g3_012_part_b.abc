@@ -1,0 +1,61 @@
+X:1
+%
+%%titleleft true
+%%tabaddflags 0
+%%tabrhstyle grid
+%
+T:K8g3_012_part_b.png
+C:781 symbols in 354 chords
+L:1/1
+K:italiantab
+%
+[,,f,h///] [,,d] |\
+	[h,a,f//] [ffg] [fdfd] [,,d] [,ffc///] [f] [e] [b] [f] [e] [f//] [e] [b] [e] |\
+	[ff,h,f/] [ac,,a] [ac,,a///] [,a] [,c] [,d] [add,a] [,c] [,d//] [,b] [,a] [,b] |\
+	[cdda///] [b] [,d] [,c] [,a] [,,d] [,a//] [,b] [,d] [a] [cdf///] [,c] [b] 
+%
+[,d] [,f] [,df//] [,,d] |\
+	[,dff] [a///] [c] [d,f//] [,,,f] [,dff] [d] [hiif] [,h] |\
+	[ffhh/] [edf] [ffih//] [,,h///] [,,f] [,,a] [,,h] [,,i////] [,,h] [,,f] [,,h] |\
+	[fhi,f///] [,f] [,h] [,a] [f,i,f] [,h] [,a] [f] [hiaf] [f] [h] [i] [h,a//] [f] |\
+	[dfg,d///] [,d] 
+%
+[,f] [,g] [,fg//] [,,f///] [,,d] [ddf,,d//] [,,g] [,dff,d] [,,g///] [,d] |\
+	[,fdfd//] [,g] [,fg] [,,,,b] [abd,a///] [,,,,c] [,,,,d] [,,,,b] [a,,,a] [,,,,c] [,,,,d] [,,,a] |\
+	[aabb//] [c] [dfg,d/] [dffc] [fhb,f] |\
+	[ha,f//] [,g] [ffgh] [,,i] [fffc//] [e///] [c] [f] [e] [d////] [e] [b] [e] |
+%
+[ffhh/] [,fhh] [ddff] [,fg,d] |\
+	[ddgf//] [,,f//] [,,d] [,,g] [,,f] [,,g////] [,,f] [,,d] [,,f] [dfg/] [,fgh//] [f] |\
+	[ifg] [hdaf] [ffgh] [fgi,f] [effb/] [ffg,,f//] [ffgh] |\
+	[ifg] [hidf] [ffgh] [fgi,f] [fffb///] [e] [f////] [e] [c] [e] [f,hh,f/] |\
+	[,,,h//] [,,f//] [,,h] [,hihf/] [cdf,c] [cdda] |\
+	[b] 
+%
+[dfg,d///] [,d] [,f] [,g] [dfg//] [,,f///] [,,d] [,dff/] [b] |\
+	[,,a,c//] [i] [h,,f] [f,g] [d,f] [,,de] [d,bb] [,,,a] |\
+	[ab,,d] [cd] [afg] [,df] [,bd] [,ab] [afch] [,,ff] |\
+	[,g,hi] [h] [f,g] [fg] [df,,d] [,,g] [aa,c] [,,d] |\
+	[aabc] [,,,a] [ab,,d] [,d,,c] [abd,a] [,a] [a,d,a] [,d] |
+%
+[,bd//] [,df] [f,#yh] [,,ff] [,dde] [d,,c] [cd,a] [ab] |\
+	[,dff] [,bd] [d,ff] [,,de] [,abc] [ba,a] [ab,,d] [ab] |\
+	[,dff,d/] [abb,d] [dfg,d] [,df,,d] |\
+	[ddda//] [b///] [a] [b,d] [,d] [a] [b] [aa,c] [,,d] [,,c] [,,a] [a,d] [,,c] [,,d//] [,,c] [,,a] [,,c] |\
+	H[acd,a] |
+%
+...[,aac] [ffgh/] [cdda//] [d] [f,dd/] |\
+	[fffb//] [e///] [c] [f] [e] [f////] [e] [c] [e] .[f,gf/] [,gg] |\
+	[fggd///] [d] [f] [h] [if,h] [f] [h] [i] [,dif] [i] [h] [f] [i] [h] [i////] [h] [f] [h] |\
+	.[idf,,a/] [,ddfda] [f#ybgd] [fgc,f] |
+%
+[if,f,i] .[,d,f,d] ..[,#y,,f//] [f] [f] |\
+	[,fbc] [,,d] [e,f/] ..[f,g,,f] [,fgc] |\
+	[dffc] [,d,f] [dfg,d] [ffgh] |\
+	[hhdf] [haif] [ffgh] [effb] |\
+	[ffgh] [ffg//] [,,,f] [ffdd] [,d///] [,,g] [,f] [,d] [,f///] [,d] [,,af] [,d] |\
+	[effb/] [e,fc//] [c///] [e] [ffhh/] [,fhh//] [f] |\
+	.[fc,,f///] [,f] 
+% number of items: 781
+
+

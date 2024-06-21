@@ -1,0 +1,34 @@
+X:1
+%
+%%titleleft true
+%%tabaddflags 0
+%%tabrhstyle grid
+%
+T:K1c10_039_part_b.png
+C:285 symbols in 122 chords
+L:1/1
+K:italiantab
+%
+[a//] .[b] [d] [a] |\
+	[b,,,b] [a] [,d] .[,b] [,d,,b] .[b] [a] .[,d] |\
+	[,,,,a///] .[,a] [,c] .[,d] [a//] .[d///] [cdda1] |\
+	[,dda//] [,dda] .[a,d,a/] [,dda//] [,dda] |\
+	[,aba,d//] [abb,d//] [abb,d/] [abb,d] |\
+	[,dda//] [d///] .[c] [a] .[,d] [,c] .[,a] [acd,a/] [,,,c] |\
+	[,,,,a] [,dda//] [,dda] [acd,a/] [,dda//] [,dda] |
+%
+[,aba,d] .[,,d] [,a] [,c] [,d] [,,b] [,,,c] .[,d] |\
+	[,c///] .[,a] [,c] .[,d] [ac,,a//] [,,d] [,d,a//] .[,d//] |\
+	[,,d/] [,dda//] [,dda] [acd,a] [,,,c] [,dda] [,dda] |\
+	[,aba,d/] [abb,d//] [abb,d] [abb,d] .[d] [c] .[a] |\
+	[,daac] .[,,,c] [,,a] .[,,c] [,cdca/] [fdaa//] [fdaa] |\
+	[fc,ca/] [fdaa//] [fdaa] [dab,,d] [c///] .[d] 
+%
+[f] .[d] [c] .[a] |\
+	[d] .[c] [a] .[,d] [a] .[,d] [,c] .[,a] [acd,a//] [,d///] .[,c] [,d] .[,c] [,a] .[,c] |\
+	[,dda] |
+%
+[b] 
+% number of items: 285
+
+
